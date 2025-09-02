@@ -1,0 +1,16 @@
+{
+  "citation": "",
+  "description": "",
+  "features": {
+    "density": {
+      "shape": [
+        180,
+        320
+      ],
+      "dtype": "float32",
+      "_type": "Array2D"
+    }
+  },
+  "homepage": "",
+  "license": ""
+}
