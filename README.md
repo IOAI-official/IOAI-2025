@@ -29,7 +29,7 @@ The **2nd International Olympiad in Artificial Intelligence (IOAI 2025)** took p
 
 | Task | Task Statement | Training Data | Reference Solution | Validation Data | Test Data |
 |------|----------------|---------------|-------------------|-----------------|-----------|
-| Task 1: Radar | [Notebook](Individual-Contest/Radar/Radar.ipynb) | [Training Set](https://github.com/IOAI-official/IOAI-2025/tree/main/Individual-Contest/Radar/training_set) | [Solution](https://github.com/IOAI-official/IOAI-2025/blob/main/Individual-Contest/Radar/Grading/Radar_Solution.ipynb) | [Validation Set](https://github.com/IOAI-official/IOAI-2025/tree/main/Individual-Contest/Radar/Grading/validation_set) | [Test Set](https://github.com/IOAI-official/IOAI-2025/tree/main/Individual-Contest/Radar/Grading/test_set) |
+| Task 1: Radar | [Notebook](Individual-Contest/Radar/Radar.ipynb) | [Training Set](https://github.com/IOAI-official/IOAI-2025/tree/main/Individual-Contest/Radar/training_set) | [Solution](https://github.com/IOAI-official/IOAI-2025/blob/main/Individual-Contest/Radar/Solution/Radar_Solution.ipynb) | [Validation Set](https://github.com/IOAI-official/IOAI-2025/tree/main/Individual-Contest/Radar/Solution/validation_set) | [Test Set](https://github.com/IOAI-official/IOAI-2025/tree/main/Individual-Contest/Radar/Solution/test_set) |
 
 ---
 
