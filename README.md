@@ -1,7 +1,5 @@
 # International Olympiad in Artificial Intelligence (IOAI 2025, Beijing, China)
 
-This repository contains contest tasks and related materials from the **Individual Contest** of IOAI 2025.
-
 ---
 
 ## About IOAI 2025
@@ -31,6 +29,7 @@ The [**2nd International Olympiad in Artificial Intelligence (IOAI 2025)**](http
 |----------------|---------------|--------------------|-----------------|-----------|
 | [Task 1: Radar](Individual-Contest/Radar/Radar.ipynb) | [Training Set](https://github.com/IOAI-official/IOAI-2025/tree/main/Individual-Contest/Radar/training_set) | [Solution](https://github.com/IOAI-official/IOAI-2025/blob/main/Individual-Contest/Radar/Solution/Radar_Solution.ipynb) | [Validation Set](https://github.com/IOAI-official/IOAI-2025/tree/main/Individual-Contest/Radar/Solution/validation_set) | [Test Set](https://github.com/IOAI-official/IOAI-2025/tree/main/Individual-Contest/Radar/Solution/test_set) |
 | [Task 2: Chicken Counting](Individual-Contest/Chicken_Counting/Chicken_Counting.ipynb) | [Training Set](https://github.com/IOAI-official/IOAI-2025/tree/main/Individual-Contest/Chicken_Counting/training_set) | [Solution](https://github.com/IOAI-official/IOAI-2025/blob/main/Individual-Contest/Chicken_Counting/Solution/Chicken_Counting_Solution.ipynb) | [Validation Set](https://github.com/IOAI-official/IOAI-2025/tree/main/Individual-Contest/Chicken_Counting/Solution/validation_set) | [Test Set](https://github.com/IOAI-official/IOAI-2025/tree/main/Individual-Contest/Chicken_Counting/Solution/test_set) |
+| [Task 3: Concepts](Individual-Contest/Concepts/Concepts.ipynb) | [Training Set](https://github.com/IOAI-official/IOAI-2025/tree/main/Individual-Contest/Concepts/training_set) | [Solution](https://github.com/IOAI-official/IOAI-2025/blob/main/Individual-Contest/Concepts/Solution/Concepts_Solution.ipynb) | [Validation Set](https://github.com/IOAI-official/IOAI-2025/tree/main/Individual-Contest/Concepts/Solution/validation_set) | [Test Set](https://github.com/IOAI-official/IOAI-2025/tree/main/Individual-Contest/Concepts/Solution/test_set) |
 
 ---
 

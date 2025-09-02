@@ -1,0 +1,45 @@
+{
+  "builder_name": "parquet",
+  "citation": "",
+  "config_name": "default",
+  "dataset_name": "concepts-hint-descriptions",
+  "dataset_size": 428128,
+  "description": "",
+  "download_checksums": {
+    "hf://datasets/afaji/concepts-hint-descriptions@5c10bb9dd05a3351a967bbb1ad3ab0b71673e187/data/train-00000-of-00001.parquet": {
+      "num_bytes": 418213,
+      "checksum": null
+    }
+  },
+  "download_size": 418213,
+  "features": {
+    "ID": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "Description": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "image": {
+      "_type": "Image"
+    }
+  },
+  "homepage": "",
+  "license": "",
+  "size_in_bytes": 846341,
+  "splits": {
+    "train": {
+      "name": "train",
+      "num_bytes": 428128,
+      "num_examples": 118,
+      "dataset_name": "concepts-hint-descriptions"
+    }
+  },
+  "version": {
+    "version_str": "0.0.0",
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}

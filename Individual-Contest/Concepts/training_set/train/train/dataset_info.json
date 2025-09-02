@@ -1,0 +1,45 @@
+{
+  "builder_name": "parquet",
+  "citation": "",
+  "config_name": "default",
+  "dataset_name": "ioai-concepts-onsite-dev",
+  "dataset_size": 35500,
+  "description": "",
+  "download_checksums": {
+    "hf://datasets/afaji/ioai-concepts-onsite-dev@58cc47510b2d27d54b79a45d13fecf887f00d134/data/train-00000-of-00001.parquet": {
+      "num_bytes": 15278,
+      "checksum": null
+    }
+  },
+  "download_size": 15278,
+  "features": {
+    "label": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "options": {
+      "feature": {
+        "dtype": "string",
+        "_type": "Value"
+      },
+      "_type": "Sequence"
+    }
+  },
+  "homepage": "",
+  "license": "",
+  "size_in_bytes": 50778,
+  "splits": {
+    "train": {
+      "name": "train",
+      "num_bytes": 35500,
+      "num_examples": 30,
+      "dataset_name": "ioai-concepts-onsite-dev"
+    }
+  },
+  "version": {
+    "version_str": "0.0.0",
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}
