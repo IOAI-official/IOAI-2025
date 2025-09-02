@@ -6,7 +6,7 @@ This repository contains contest tasks and related materials from the **Individu
 
 ## About IOAI 2025
 
-The **2nd International Olympiad in Artificial Intelligence (IOAI 2025)** took place in **Beijing, China**, from **August 2 to 9, 2025**, hosted by **Beijing National Day School (BNDS)** under the patronage of **UNESCO**, according to the [official IOAI site](https://ioai-official.org/china-2025/).
+The [**2nd International Olympiad in Artificial Intelligence (IOAI 2025)**](https://ioai-official.org/china-2025/) took place in **Beijing, China**, from **August 2 to 9, 2025**, hosted by **Beijing National Day School (BNDS)** under the patronage of **UNESCO**.
 
 - **Contest Rules**: Full rules encompassing the Individual, Team, and GAITE contests are available [here](https://ioai-official.org/china-2025/2025-contest-rules/).  
 - **Syllabus**: The official syllabus outlining the AI topics contestants should master is available [here](https://ioai-official.org/china-2025/syllabus-2025/).  
@@ -27,9 +27,9 @@ The **2nd International Olympiad in Artificial Intelligence (IOAI 2025)** took p
 
 ### Individual Contest Tasks
 
-| Task | Task Statement | Training Data | Reference Solution | Validation Data | Test Data |
+| Task | Task Statement and Baseline Code | Training Data | Reference Solution | Validation Data | Test Data |
 |------|----------------|---------------|-------------------|-----------------|-----------|
-| Task 1: Radar | [Notebook](Individual-Contest/Radar/Radar.ipynb) | [Training Set](https://github.com/IOAI-official/IOAI-2025/tree/main/Individual-Contest/Radar/training_set) | [Solution](https://github.com/IOAI-official/IOAI-2025/blob/main/Individual-Contest/Radar/Solution/Radar_Solution.ipynb) | [Validation Set](https://github.com/IOAI-official/IOAI-2025/tree/main/Individual-Contest/Radar/Solution/validation_set) | [Test Set](https://github.com/IOAI-official/IOAI-2025/tree/main/Individual-Contest/Radar/Solution/test_set) |
+| [Task 1: Radar](Individual-Contest/Radar) | [Statement](Individual-Contest/Radar/Radar.ipynb) | [Training Set](https://github.com/IOAI-official/IOAI-2025/tree/main/Individual-Contest/Radar/training_set) | [Solution](https://github.com/IOAI-official/IOAI-2025/blob/main/Individual-Contest/Radar/Solution/Radar_Solution.ipynb) | [Validation Set](https://github.com/IOAI-official/IOAI-2025/tree/main/Individual-Contest/Radar/Solution/validation_set) | [Test Set](https://github.com/IOAI-official/IOAI-2025/tree/main/Individual-Contest/Radar/Solution/test_set) |
 
 ---
 
