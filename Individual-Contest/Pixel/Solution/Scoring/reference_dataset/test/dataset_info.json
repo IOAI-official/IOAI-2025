@@ -1,0 +1,49 @@
+{
+  "builder_name": "parquet",
+  "citation": "",
+  "config_name": "default",
+  "dataset_name": "private_do_not_share_2025_6_pixel_test_reference",
+  "dataset_size": 66689696,
+  "description": "",
+  "download_checksums": {
+    "hf://datasets/fedyanin/PRIVATE_DO_NOT_SHARE_2025_6_pixel_test_reference@70a41c3eda0606d8e873d1e1fa8d19600870a600/data/test-00000-of-00001.parquet": {
+      "num_bytes": 66551523,
+      "checksum": null
+    }
+  },
+  "download_size": 66551523,
+  "features": {
+    "image": {
+      "_type": "Image"
+    },
+    "name": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "meta": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "idx": {
+      "dtype": "string",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": "",
+  "size_in_bytes": 133241219,
+  "splits": {
+    "test": {
+      "name": "test",
+      "num_bytes": 66689696,
+      "num_examples": 698,
+      "dataset_name": "private_do_not_share_2025_6_pixel_test_reference"
+    }
+  },
+  "version": {
+    "version_str": "0.0.0",
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "builder_name": "parquet",
+  "citation": "",
+  "config_name": "default",
+  "dataset_name": "2025_6_pixel_train",
+  "dataset_size": 66289069,
+  "description": "",
+  "download_checksums": {
+    "hf://datasets/InternationalOlympiadAI/2025_6_pixel_train@e559471b7f6f163c671b62ac7fdafd800c378af9/data/train-00000-of-00001.parquet": {
+      "num_bytes": 66270582,
+      "checksum": null
+    }
+  },
+  "download_size": 66270582,
+  "features": {
+    "name": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "image": {
+      "_type": "Image"
+    },
+    "idx": {
+      "dtype": "string",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": "",
+  "size_in_bytes": 132559651,
+  "splits": {
+    "train": {
+      "name": "train",
+      "num_bytes": 66289069,
+      "num_examples": 700,
+      "dataset_name": "2025_6_pixel_train"
+    }
+  },
+  "version": {
+    "version_str": "0.0.0",
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}
