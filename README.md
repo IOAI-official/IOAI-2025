@@ -27,8 +27,8 @@ The [**2nd International Olympiad in Artificial Intelligence (IOAI 2025)**](http
 
 ### Individual Contest Tasks
 
-| Task | Training Data | Reference Solution | Validation Data | Test Data |
-|------|----------------|---------------|-------------------|-----------------|-----------|
+| Task Statement | Training Data | Reference Solution | Validation Data | Test Data |
+|----------------|---------------|--------------------|-----------------|-----------|
 | [Task 1: Radar](Individual-Contest/Radar/Radar.ipynb) | [Training Set](https://github.com/IOAI-official/IOAI-2025/tree/main/Individual-Contest/Radar/training_set) | [Solution](https://github.com/IOAI-official/IOAI-2025/blob/main/Individual-Contest/Radar/Solution/Radar_Solution.ipynb) | [Validation Set](https://github.com/IOAI-official/IOAI-2025/tree/main/Individual-Contest/Radar/Solution/validation_set) | [Test Set](https://github.com/IOAI-official/IOAI-2025/tree/main/Individual-Contest/Radar/Solution/test_set) |
 | [Task 2: Chicken Counting](Individual-Contest/Chicken_Counting/Chicken_Counting.ipynb) | [Training Set](https://github.com/IOAI-official/IOAI-2025/tree/main/Individual-Contest/Chicken_Counting/training_set) | [Solution](https://github.com/IOAI-official/IOAI-2025/blob/main/Individual-Contest/Chicken_Counting/Solution/Chicken_Counting_Solution.ipynb) | [Validation Set](https://github.com/IOAI-official/IOAI-2025/tree/main/Individual-Contest/Chicken_Counting/Solution/validation_set) | [Test Set](https://github.com/IOAI-official/IOAI-2025/tree/main/Individual-Contest/Chicken_Counting/Solution/test_set) |
 
